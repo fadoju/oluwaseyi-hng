@@ -1,0 +1,132 @@
+/*{
+    margin: 0%;
+    padding: 0%;
+    border: 0ch;
+}*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+    background-color: rgb(28, 36, 33);
+}
+.info-1{
+    background-color: darkslategray;
+    color: brown;
+    padding-top: 5px; 
+    padding-bottom:50px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+}
+.info-1 a{
+    color: whitesmoke;
+    padding-bottom: 20px;
+
+}
+.info-1 h1{
+    margin: 0;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.info-1 h4{     
+    margin: 0%;
+    padding: 0%;
+}
+
+.info-2 h3{
+    background-color:gray;
+    margin: 5px;
+    padding: 5px; 
+    margin-bottom: 20px;   
+}
+.info-2 table{
+    background-color: grey;
+    border: 5px,solid black;
+    width: 100%;
+    color: antiquewhite;
+    margin-bottom: 50px;
+
+}
+.info-2 tr:nth-child(even) { 
+     background-color: rgb(182, 166, 142); 
+}
+
+.info-3{ 
+    
+    margin-bottom: 50px;
+    
+}
+.info-3 h3{
+    background-color: grey;
+    padding: 5px;
+    margin-bottom: 20px;
+
+
+}
+.info{
+    background-color: gray;
+    padding-left: 20px;
+    color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.futa ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+ .futa li{
+     display: inline;
+ }
+
+.info-4{
+    margin-bottom: 50px;
+    
+}
+.info-4 h3{
+    background-color: gray;
+    padding-left: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.exper{
+    background-color: gray;
+    padding-left: 20px;
+    color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+.froy ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+.froy li{
+    display: inline;
+}
+.info-5{
+    
+    margin-bottom: 50px;
+}
+.info-5  h3{
+    background-color: gray;
+    padding-left: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+.add{
+    background-color: gray;
+    padding-left: 20px;
+    color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
